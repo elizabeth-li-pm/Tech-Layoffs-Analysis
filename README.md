@@ -16,7 +16,7 @@ assess employer risk with data instead of speculation.
 | Business Requirements (BRD) | ✅ Complete |
 | Data Exploration | ✅ Complete |
 | Data Cleaning | ✅ Complete |
-| SQL Business Analysis | ⏳ Not started |
+| SQL Business Analysis | ⏳ In Progress |
 | Dashboard (Tableau) | ⏳ Not started |
 | Final Insights & Recommendations | ⏳ Not started |
 
