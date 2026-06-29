@@ -1040,7 +1040,7 @@ Protocol Labs,San Francisco,California,USA,89.0,2023-02-03,20.0,445.0,356.0,Cryp
 Lightico,Tel Aviv,non,Israel,20.0,2023-02-05,25.0,80.0,60.0,Finance,Series B,42.0,2023,32.0852997,34.7818064,Small
 Loggi,Sao Paulo,State of São Paulo,Brazil,300.0,2023-02-06,7.0,4286.0,3986.0,Logistics,Series F,507.0,2023,-23.5506507,-46.6333824,Large
 Pocket Aces,Mumbai,Maharashtra,India,50.0,2023-02-06,25.0,200.0,150.0,Media,,19.0,2023,19.0785451,72.878176,Small
-eBay,San Francisco,California,USA,500.0,2023-02-07,4.0,12500.0,12000.0,e-commerce,Post-IPO,1200.0,2023,37.7792588,-122.4193286,Large
+eBay,San Francisco,California,USA,500.0,2023-02-07,4.0,12500.0,12000.0,E-commerce,Post-IPO,1200.0,2023,37.7792588,-122.4193286,Large
 LearnUpon,Dublin,non,Ireland,27.0,2023-02-07,9.0,300.0,273.0,Education,Private Equity,56.0,2023,53.3493795,-6.2605593,Small
 Openpay,Melbourne,Victoria,Australia,83.0,2023-02-07,100.0,83.0,0.0,Finance,Post-IPO,299.0,2023,-37.8142454,144.9631732,Small
 Salesloft,Atlanta,Georgia,USA,100.0,2023-02-07,10.0,1000.0,900.0,Sales,Acquired,245.0,2023,33.7489924,-84.3902644,Mid-size
@@ -1406,7 +1406,7 @@ Stellar Pizza,Los Angeles,California,USA,,2023-12-14,50.0,,,Food,Series A,25.0,2
 Glowforge,Seattle,Washington,USA,30.0,2023-12-15,,,,Manufacturing,Series E,133.0,2024,47.6038321,-122.330062,
 Jellysmack,Paris,non,France,,2023-12-15,,,,Media,Series C,22.0,2024,48.8588897,2.320041022,
 Superpedestrian,Boston,Massachusetts,USA,,2023-12-15,,,,Transportation,Series C,262.0,2024,42.3554334,-71.060511,
-eBay,San Francisco,California,USA,20.0,2023-12-17,,,,e-commerce,Post-IPO,1.0,2024,37.7792588,-122.4193286,
+eBay,San Francisco,California,USA,20.0,2023-12-17,,,,E-commerce,Post-IPO,1.0,2024,37.7792588,-122.4193286,
 Arm Holdings,Shanghai,non,China,70.0,2023-12-18,,,,Hardware,Post-IPO,,2024,31.2312707,121.4700152,
 Checkout.com,London,England,UK,80.0,2023-12-18,,,,Finance,Series D,2.0,2024,51.4893335,-0.144055085,
 Delivery Hero,Berlin,Berlin,Germany,,2023-12-18,,,,Food,Post-IPO,10.0,2024,52.5170365,13.3888599,
@@ -1501,7 +1501,7 @@ TikTok,Los Angeles,California,USA,60.0,2024-01-22,,,,Entertainment Providers,Acq
 Xendit,Jakarta,non,Indonesia,200.0,2024-01-22,,,,Finance,Series D,534.0,2024,-6.175247,106.8270488,
 Brex,San Francisco,California,USA,282.0,2024-01-23,20.0,1410.0,1128.0,Finance,Series D,2.0,2024,37.7792588,-122.4193286,Large
 Cure.fit,Bengaluru,Karnataka,India,120.0,2024-01-23,,,,Fitness,Series F,625.0,2024,12.98815675,77.62260004,
-eBay,San Francisco,California,USA,1000.0,2024-01-23,9.0,11111.0,10111.0,e-commerce,Post-IPO,1.0,2024,37.7792588,-122.4193286,Large
+eBay,San Francisco,California,USA,1000.0,2024-01-23,9.0,11111.0,10111.0,E-commerce,Post-IPO,1.0,2024,37.7792588,-122.4193286,Large
 GoStudent,Vienna,non,Austria,100.0,2024-01-23,,,,Education,Series D,686.0,2024,48.2083537,16.3725042,
 GoTo,Boston,Massachusetts,USA,29.0,2024-01-23,,,,Other,Acquired,2.0,2024,42.3554334,-71.060511,
 SAP,Walldorf,Baden-Würtemberg,Germany,8000.0,2024-01-23,7.0,114286.0,106286.0,Other,Post-IPO,1.0,2024,49.3038134,8.6433518,Large
@@ -1851,7 +1851,7 @@ BeReal,Paris,non,France,,2024-06-25,,,,Consumer,Acquired,,2024,48.8588897,2.3200
 Octopus Ventures,London,England,UK,8.0,2024-06-25,16.0,50.0,42.0,Finance,,,2024,51.4893335,-0.144055085,Small
 Perion,Tel Aviv,non,Israel,35.0,2024-06-25,5.0,700.0,665.0,Marketing,Post-IPO,76.0,2024,32.0852997,34.7818064,Mid-size
 BeReal,Paris,non,France,,2024-06-25,,,,Consumer,Acquired,,2024,48.8588897,2.320041022,
-eBay,Tel Aviv,non,Israel,,2024-06-26,,,,e-commerce,Post-IPO,1200.0,2024,32.0852997,34.7818064,
+eBay,Tel Aviv,non,Israel,,2024-06-26,,,,E-commerce,Post-IPO,1200.0,2024,32.0852997,34.7818064,
 Moxion Power,Richmond,California,USA,101.0,2024-06-26,,,,Energy,,124.0,2024,37.5385087,-77.43428,
 Perion,Tel Aviv,non,Israel,35.0,2024-06-26,5.0,700.0,665.0,Marketing,Post-IPO,76.0,2024,32.0852997,34.7818064,Mid-size
 Planet,San Francisco,California,USA,180.0,2024-06-26,17.0,1059.0,879.0,Aerospace,Post-IPO,574.0,2024,37.7792588,-122.4193286,Large
@@ -2371,7 +2371,7 @@ Verizon,New York City,New York,USA,15000.0,2025-11-13,,,,Other,,,2025,40.7127281
 AI Fleet,Austin,Texas,USA,,2025-11-13,,,,Transportation,,,2025,30.2711286,-97.7436995,
 Bitdefender,Bucharest,non,Romania,,2025-11-13,7.0,,,Other,,,2025,44.43917757,26.07814862,
 Crystal Dynamics,San Mateo,California,USA,30.0,2025-11-14,,,,Other,,,2025,37.496904,-122.3330573,
-Flipkart,Tel Aviv,non,Israel,40.0,2025-11-16,,,,e-commerce,,,2025,32.0852997,34.7818064,
+Flipkart,Tel Aviv,non,Israel,40.0,2025-11-16,,,,E-commerce,,,2025,32.0852997,34.7818064,
 Playtika,Herzliya,non,Israel,800.0,2025-11-17,20.0,4000.0,3200.0,Computer Games,,,2025,32.17527727,34.8295478,Large
 Fanatics,New York City,New York,USA,280.0,2025-11-17,,,,Other,,,2025,40.7127281,-74.0060152,
 Cisco,San Jose,California,USA,,2025-11-18,,,,Software Development,,,2025,37.3361663,-121.890591,
