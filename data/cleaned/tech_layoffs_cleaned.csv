@@ -177,7 +177,7 @@ Kueski,Guadalajara,Jalisco,Mexico,90.0,2020-04-20,30.0,300.0,210.0,Finance,Serie
 Movidesk,Blumenau,State of Santa Catarina,Brazil,33.0,2020-04-20,25.0,132.0,99.0,Support,Seed,1.0,2020,-26.9195567,-49.0658025,Small
 Bringg,Tel Aviv,non,Israel,10.0,2020-04-21,10.0,100.0,90.0,Logistics,Series D,84.0,2020,32.0852997,34.7818064,Small
 Casper,New York City,New York,USA,78.0,2020-04-21,21.0,371.0,293.0,Retail,Post-IPO,339.0,2020,40.7127281,-74.0060152,Mid-size
-Freshbooks,Toronto,Ontario,Canada,38.0,2020-04-21,9.0,422.0,384.0,Finance,Series B,75.0,2020,43.6534817,-79.3839347,Mid-size
+FreshBooks,Toronto,Ontario,Canada,38.0,2020-04-21,9.0,422.0,384.0,Finance,Series B,75.0,2020,43.6534817,-79.3839347,Mid-size
 Houzz,Palo Alto,California,USA,155.0,2020-04-21,10.0,1550.0,1395.0,Consumer,Series E,613.0,2020,37.4443293,-122.1598465,Large
 Lending Club,San Francisco,California,USA,460.0,2020-04-21,30.0,1533.0,1073.0,Finance,Post-IPO,392.0,2020,37.7792588,-122.4193286,Large
 Patreon,San Francisco,California,USA,30.0,2020-04-21,13.0,231.0,201.0,Media,Series D,165.0,2020,37.7792588,-122.4193286,Small
@@ -206,7 +206,7 @@ Deliveroo,London,England,UK,367.0,2020-04-28,15.0,2447.0,2080.0,Food,Series G,15
 OpenX,Los Angeles,California,USA,35.0,2020-04-28,15.0,233.0,198.0,Marketing,,70.0,2020,34.0536909,-118.242766,Small
 PayJoy,San Francisco,California,USA,27.0,2020-04-28,25.0,108.0,81.0,Finance,Series B,71.0,2020,37.7792588,-122.4193286,Small
 Shipsi,Los Angeles,California,USA,20.0,2020-04-28,50.0,40.0,20.0,Retail,Seed,2.0,2020,34.0536909,-118.242766,Small
-TripAdvisor,Boston,Massachusetts,USA,900.0,2020-04-28,25.0,3600.0,2700.0,Travel,Post-IPO,3.0,2020,42.3554334,-71.060511,Large
+Tripadvisor,Boston,Massachusetts,USA,900.0,2020-04-28,25.0,3600.0,2700.0,Travel,Post-IPO,3.0,2020,42.3554334,-71.060511,Large
 Kayak / OpenTable,Stamford,Connecticut,USA,160.0,2020-04-29,8.0,2000.0,1840.0,Travel,Acquired,229.0,2020,41.0534302,-73.5387341,Large
 Lime,San Francisco,California,USA,80.0,2020-04-29,13.0,615.0,535.0,Transportation,Series D,765.0,2020,37.7792588,-122.4193286,Mid-size
 Lyft,San Francisco,California,USA,982.0,2020-04-29,17.0,5776.0,4794.0,Transportation,Post-IPO,4900.0,2020,37.7792588,-122.4193286,Large
@@ -959,7 +959,7 @@ Pier,Sao Paulo,State of São Paulo,Brazil,111.0,2023-01-12,39.0,285.0,174.0,Fina
 SmartNews,Tokyo,Tokyo,Japan,120.0,2023-01-12,40.0,300.0,180.0,Media,Series F,410.0,2023,35.6821936,139.762221,Small
 BharatAgri,Mumbai,Maharashtra,India,40.0,2023-01-15,43.0,93.0,53.0,Food,Series A,21.0,2023,19.0785451,72.878176,Small
 Snappy,New York City,New York,USA,100.0,2023-01-15,30.0,333.0,233.0,Marketing,Series C,104.0,2023,40.7127281,-74.0060152,Mid-size
-ClearCo,Toronto,Ontario,Canada,50.0,2023-01-16,30.0,167.0,117.0,Finance,Series C,698.0,2023,43.6534817,-79.3839347,Small
+Clearco,Toronto,Ontario,Canada,50.0,2023-01-16,30.0,167.0,117.0,Finance,Series C,698.0,2023,43.6534817,-79.3839347,Small
 ShareChat,Bengaluru,Karnataka,India,500.0,2023-01-16,20.0,2500.0,2000.0,Consumer,Series H,1700.0,2023,12.98815675,77.62260004,Large
 American Robotics,Boston,Massachusetts,USA,50.0,2023-01-17,65.0,77.0,27.0,Other,Acquired,92.0,2023,42.3554334,-71.060511,Small
 Britishvolt,London,England,UK,206.0,2023-01-17,100.0,206.0,0.0,Transportation,,2400.0,2023,51.4893335,-0.144055085,Small
@@ -1371,7 +1371,7 @@ Sana Benefits,Austin,Texas,USA,73.0,2023-11-01,50.0,146.0,73.0,HR,Series B,106.0
 Splunk,San Jose,California,USA,500.0,2023-11-01,7.0,7143.0,6643.0,Data,Post-IPO,2400.0,2023,37.3361663,-121.890591,Large
 Beyond Meat,Los Angeles,California,USA,65.0,2023-11-02,8.0,813.0,748.0,Food,Post-IPO,122.0,2023,34.0536909,-118.242766,Mid-size
 Viasat,San Diego,California,USA,800.0,2023-11-02,10.0,8000.0,7200.0,Other,Post-IPO,366.0,2023,32.7174202,-117.162772,Large
-TripAdvisor,Boston,Massachusetts,USA,125.0,2023-11-12,4.0,3125.0,3000.0,Travel,Post-IPO,3.0,2023,42.3554334,-71.060511,Large
+Tripadvisor,Boston,Massachusetts,USA,125.0,2023-11-12,4.0,3125.0,3000.0,Travel,Post-IPO,3.0,2023,42.3554334,-71.060511,Large
 Physics Wallah,Noida,Uttar Pradesh,India,120.0,2023-11-19,1.0,12000.0,11880.0,Education,Series A,100.0,2023,28.5706333,77.3272147,Large
 Our Next Energy,Detroit,Michigan,USA,128.0,2023-11-27,25.0,512.0,384.0,Transportation,Series B,390.0,2023,42.3315509,-83.0466403,Mid-size
 Dataminr,New York City,New York,USA,150.0,2023-11-28,20.0,750.0,600.0,AI,Series F,1100.0,2023,40.7127281,-74.0060152,Mid-size
@@ -1465,7 +1465,7 @@ IAC,New York City,New York,USA,330.0,2024-01-10,,,,Consumer,Post-IPO,,2024,40.71
 Instagram,Palo Alto,California,USA,60.0,2024-01-10,,,,Consumer,Acquired,57.0,2024,37.4443293,-122.1598465,
 SoFi,San Francisco,California,USA,,2024-01-10,4.0,,,Finance,Post-IPO,3.0,2024,37.7792588,-122.4193286,
 888,Tel Aviv,non,Israel,,2024-01-11,,,,Consumer,Post-IPO,,2024,32.0852997,34.7818064,
-7Shifts,Saskatoon,Saskatchewan,Canada,68.0,2024-01-11,19.0,358.0,290.0,Food,Series C,131.0,2024,52.131802,-106.660767,Mid-size
+7shifts,Saskatoon,Saskatchewan,Canada,68.0,2024-01-11,19.0,358.0,290.0,Food,Series C,131.0,2024,52.131802,-106.660767,Mid-size
 Audible,New York City,New York,USA,100.0,2024-01-11,5.0,2000.0,1900.0,Media,Acquired,14.0,2024,40.7127281,-74.0060152,Large
 Certinia,San Jose,California,USA,,2024-01-11,,,,Other,,194.0,2024,37.3361663,-121.890591,
 Chief,New York City,New York,USA,,2024-01-11,,,,HR,Series B,140.0,2024,40.7127281,-74.0060152,
@@ -1872,7 +1872,7 @@ Koo,Bengaluru,Karnataka,India,,2024-07-02,100.0,,0.0,Consumer,,51.0,2024,12.9881
 UKG,Boston,Massachusetts,USA,2200.0,2024-07-03,14.0,15714.0,13514.0,HR,,,2024,42.3554334,-71.060511,Large
 OpenText,Waterloo,Ontario,Canada,1200.0,2024-07-03,2.0,60000.0,58800.0,Data,Post-IPO,1.0,2024,43.4652699,-80.5222961,Large
 Microsoft,Seattle,Washington,USA,,2024-07-03,,,,Other,Post-IPO,1.0,2024,47.6038321,-122.330062,
-UIPath,New York City,New York,USA,420.0,2024-07-09,10.0,4200.0,3780.0,Other,Post-IPO,2.0,2024,40.7127281,-74.0060152,Large
+UiPath,New York City,New York,USA,420.0,2024-07-09,10.0,4200.0,3780.0,Other,Post-IPO,2.0,2024,40.7127281,-74.0060152,Large
 Intuit,Mountain View,California,USA,1800.0,2024-07-10,10.0,18000.0,16200.0,Finance,Post-IPO,18.0,2024,37.3893889,-122.0832101,Large
 Redbox,Chicago,Illinois,USA,1000.0,2024-07-10,100.0,1000.0,0.0,Media,Acquired,51.0,2024,41.8755616,-87.6244212,Mid-size
 CyberProof,Los Angeles,California,USA,,2024-07-10,7.0,,,Security,Subsidiary,,2024,34.0536909,-118.242766,
@@ -1993,7 +1993,7 @@ Grabango,Berkeley,California,USA,,2024-10-09,100.0,,0.0,Food,,4.0,2024,37.870839
 CareerBuilder + Monster,Chicago,Illinois,USA,200.0,2024-10-10,15.0,1333.0,1133.0,Recruiting,Acquired,,2024,41.8755616,-87.6244212,Large
 GoWild,Louisville,Kentucky,USA,,2024-10-10,100.0,,0.0,Retail,Seed,8.0,2024,38.2239991,-85.74299703,
 Toptal,Palo Alto,California,USA,,2024-10-10,,,,Recruiting,,,2024,37.4443293,-122.1598465,
-Bytedance,Jakarta,non,Indonesia,500.0,2024-10-11,,,,Consumer,,0.0,2024,-6.175247,106.8270488,
+ByteDance,Jakarta,non,Indonesia,500.0,2024-10-11,,,,Consumer,,0.0,2024,-6.175247,106.8270488,
 Nikola,Phoenix,Arizona,USA,130.0,2024-10-11,15.0,867.0,737.0,Transportation,Post-IPO,3.0,2024,33.4484367,-112.074141,Mid-size
 Toplyne,Bengaluru,Karnataka,India,,2024-10-11,100.0,,0.0,Sales,Series A,17.0,2024,12.98815675,77.62260004,
 Gigamon,Santa Clara,California,USA,6.0,2024-10-15,,,,Data,Acquired,23.0,2024,37.354107,-121.955238,
@@ -2114,7 +2114,7 @@ Cruise,San Francisco,California,USA,1000.0,2025-02-04,50.0,2000.0,1000.0,Transpo
 Okta,San Francisco,California,USA,180.0,2025-02-04,3.0,6000.0,5820.0,Security,Post-IPO,1200.0,2025,37.7792588,-122.4193286,Large
 AppsFlyer,San Francisco,California,USA,100.0,2025-02-04,7.0,1429.0,1329.0,Data,,293.0,2025,37.7792588,-122.4193286,Large
 Asana,San Francisco,California,USA,100.0,2025-02-04,,,,Other,Post-IPO,453.0,2025,37.7792588,-122.4193286,
-TripAdvisor,Boston,Massachusetts,USA,75.0,2025-02-04,,,,Travel,Post-IPO,3.0,2025,42.3554334,-71.060511,
+Tripadvisor,Boston,Massachusetts,USA,75.0,2025-02-04,,,,Travel,Post-IPO,3.0,2025,42.3554334,-71.060511,
 Intel,Sacramento,California,USA,58.0,2025-02-04,,,,Hardware,Post-IPO,12.0,2025,38.5810606,-121.493895,
 Workday,Pleasanton,California,USA,1750.0,2025-02-05,8.0,21875.0,20125.0,HR,Post-IPO,230.0,2025,37.6624312,-121.8746789,Large
 Outbrain,New York City,New York,USA,200.0,2025-02-05,,,,Marketing,Post-IPO,394.0,2025,40.7127281,-74.0060152,
@@ -2163,7 +2163,7 @@ Rec Room,Seattle,Washington,USA,,2025-03-03,16.0,,,Consumer,Series F,294.0,2025,
 LiveRamp,San Francisco,California,USA,65.0,2025-03-05,5.0,1300.0,1235.0,Marketing,Post-IPO,16.0,2025,37.7792588,-122.4193286,Large
 Hewlett Packard Enterprise,Palo Alto,California,USA,2500.0,2025-03-06,5.0,50000.0,47500.0,Hardware,Post-IPO,1400.0,2025,37.4443293,-122.1598465,Large
 TikTok,Dublin,non,USA,300.0,2025-03-06,,,,Consumer,Acquired,,2025,53.3493795,-6.2605593,
-Wayfair ,Boston,Massachusetts,Germany,340.0,2025-03-07,,,,Retail,Post-IPO,1700.0,2025,42.3554334,-71.060511,
+Wayfair,Boston,Massachusetts,Germany,340.0,2025-03-07,,,,Retail,Post-IPO,1700.0,2025,42.3554334,-71.060511,
 Zonar Systems,Seattle,Washington,USA,,2025-03-09,,,,Logistics,Acquired,50.0,2025,47.6038321,-122.330062,
 D-ID,Tel Aviv,non,Israel,22.0,2025-03-10,25.0,88.0,66.0,AI,Series B,48.0,2025,32.0852997,34.7818064,Small
 Arrival,London,England,UK,,2025-03-10,100.0,,0.0,Transportation,Post-IPO,629.0,2025,51.4893335,-0.144055085,
@@ -2194,7 +2194,7 @@ Intel,Sacramento,California,USA,22000.0,2025-04-23,20.0,110000.0,88000.0,Hardwar
 Meta,Menlo Park,California,USA,100.0,2025-04-24,,,,Consumer,Post-IPO,26000.0,2025,37.4519671,-122.177992,
 Sonder,San Francisco,California,USA,,2025-04-24,,,,Travel,Post-IPO,839.0,2025,37.7792588,-122.4193286,
 SambaNova,Palo Alto,California,USA,77.0,2025-04-25,15.0,513.0,436.0,AI,Series D,1100.0,2025,37.4443293,-122.1598465,Mid-size
-GupShup,Fremont,California,India,200.0,2025-04-25,,,,Other,Series F,484.0,2025,37.5482697,-121.988571,
+Gupshup,Fremont,California,India,200.0,2025-04-25,,,,Other,Series F,484.0,2025,37.5482697,-121.988571,
 Cars24,Gurugram,Haryana,India,200.0,2025-04-26,,,,Transportation,Series G,1300.0,2025,28.4646148,77.0299194,
 Turo,San Francisco,California,USA,150.0,2025-04-26,17.0,882.0,732.0,Transportation,Series E,467.0,2025,37.7792588,-122.4193286,Mid-size
 AppLovin,Palo Alto,California,USA,97.0,2025-04-26,,,,Marketing,Post-IPO,1600.0,2025,37.4443293,-122.1598465,
@@ -2262,7 +2262,7 @@ Scale AI,San Francisco,California,USA,200.0,2025-07-16,14.0,1429.0,1229.0,Softwa
 Lenovo,Morrisville,North Carolina,USA,,2025-07-16,3.0,,,IT Services and IT Consulting,,,2025,35.81625936,-78.83488419,
 CDW,Vernon Hills,Illinois,USA,,2025-07-16,,,,IT Services and IT Consulting,,,2025,42.23694183,-87.96305673,
 Syqe Medical,Tel Aviv,non,Israel,50.0,2025-07-16,32.0,156.0,106.0,Other,,,2025,32.0852997,34.7818064,Small
-JAMF,Minneapolis,Minnesota,USA,,2025-07-16,6.0,,,Other,,,2025,44.9772995,-93.2654692,
+Jamf,Minneapolis,Minnesota,USA,,2025-07-16,6.0,,,Other,,,2025,44.9772995,-93.2654692,
 Intel,Santa Clara,California,USA,5000.0,2025-07-17,,,,Semiconductor Manufacturing,,,2025,37.354107,-121.955238,
 Amazon,San Francisco,California,USA,,2025-07-17,,,,Software Development,,,2025,37.7792588,-122.4193286,
 Rocket Companies,Detroit,Michigan,USA,,2025-07-21,2.0,,,Other,,,2025,42.3315509,-83.0466403,
